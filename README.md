@@ -97,9 +97,5 @@ Relevant Coursework:
 
 ---
 
-## 📈 GitHub Stats
-![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazChunawala&show_icons=true&theme=radical)
-
----
 
 Feel free to reach out to discuss potential collaboration or career opportunities!
